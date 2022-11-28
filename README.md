@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @dipratnasakhare
-- Linkedin www.linkedin.com/in/dipratna-sakhare
+<h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
+<h3 align="center">Learning MERN Stack</h3>-
+
+Linkedin www.linkedin.com/in/dipratna-sakhare
 
 <!---
 dipratnasakhare/dipratnasakhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +13,7 @@ he also  full stack web development he lear by cat he is java developer after hi
 
 
 
-<h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
-<h3 align="center">Learning MERN Stack</h3>
+
 
 <p align="left">
 </p>
