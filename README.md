@@ -14,7 +14,6 @@ he also  full stack web development he lear by cat he is java developer after hi
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
 <h3 align="center">Learning MERN Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
