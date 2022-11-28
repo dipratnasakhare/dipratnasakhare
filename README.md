@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
-<h3 align="center">Learning MERN Stack</h3>-
+<h3 align="center">Learning MERN Stack</h3>
 
 Linkedin www.linkedin.com/in/dipratna-sakhare
 
