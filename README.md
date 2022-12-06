@@ -90,7 +90,7 @@
 
 
 <div align="left">
-  <i <div align="left">
+  
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         height="40"
