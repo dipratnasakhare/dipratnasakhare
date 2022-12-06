@@ -3,17 +3,14 @@
 
 Linkedin www.linkedin.com/in/dipratna-sakhare
 
-<!---
-dipratnasakhare/dipratnasakhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-hello everyone i am doing mern cource by masai before joinnig masai i din't have any coding background i have done one cource in jetking in network admistater there i learn 
-about computer networking in cisco router switch , window server 2016 , basic software and hardware after that i did't got job i dipressed then my brother suggest me to joint masai
-he also  full stack web development he lear by cat he is java developer after his sugetion i join masai now am doing meen and i like coding i like to create new thing 
+<img src="https://i.imgur.com/NxxscUm.jpg" alt="dipratnasakhare" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipratnasakhare&label=Profile%20views&color=0e75b6&style=flat" alt="dipratnasakhare" /> </p>
 
-<h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
-<h3 align="center">Learning MERN Stack</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipratnasakhare" alt="dipratnasakhare" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipratnasakhare&label=Profile%20views&color=0e75b6&style=flat" alt="dipratnasakhare" /> </p>
 
@@ -35,7 +32,7 @@ he also  full stack web development he lear by cat he is java developer after hi
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing](https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing)
 
-- ⚡ Fun fact **first I am doing science then I am doing Computer Sciense**
+- ⚡ Fun fact **i am sciense student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
