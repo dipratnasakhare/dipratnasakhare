@@ -47,7 +47,7 @@
  <h3 align="center">Connect with me:</h3>
             <p align="center">
                 <a
-                    style="padding: 20px;"
+                    style="padding: 50px;"
                     href="https://codepen.io/https://codepen.io/dipratnasakhare"
                     target="blank"><img
                         align="center"
@@ -57,7 +57,7 @@
                         width="50"
                         /></a>
                 <a
-                    style="padding: 20px;"
+                    style="padding: 50px;"
                     href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare"
                     target="blank"><img
                         align="center"
@@ -67,7 +67,7 @@
                         width="50"
                         /></a>
                 <a
-                    style="padding: 20px;"
+                    style="padding: 50px;"
                     href="https://codesandbox.com/https://codesandbox.io/u/dipratnasakhare"
                     target="blank"><img
                         align="center"
@@ -79,7 +79,7 @@
                 <a href="https://www.hackerrank.com/@rickysakhare677"
                     target="blank"><img
                         align="center"
-                        style="padding: 20px;"
+                        style="padding: 50px;"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                         alt="@rickysakhare677"
                         height="50"
