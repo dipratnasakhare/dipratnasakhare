@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
 <h3 align="center">Learning MERN Stack</h3>
-<div  style="width: 60%; margin-left: 30%;">
+<div  style=" margin: auto;">
     <img width="300px" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="">
     <img width="300px" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="">
     <img width="300px" src="https://i.pinimg.com/originals/1d/ab/8f/1dab8fb61e47f74063638301a492e7a1.jpg" alt="">
