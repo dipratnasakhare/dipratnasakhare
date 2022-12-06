@@ -90,17 +90,84 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-</div>
+  <i <div align="left">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="javascript logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="javascript logo"
+      />
 
-###
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        height="40"
+        width="52"
+        alt="javascript logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="javascript logo"
+      />
+
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        height="40"
+        width="52"
+        alt="javascript logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        height="40"
+        width="52"
+        alt="typescript logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="react logo"
+      />
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        height="40"
+        width="52"
+        alt="nextjs logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="storybook logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        height="40"
+        width="52"
+        alt="nodejs logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        height="40"
+        width="52"
+        alt="nestjs logo"
+      />
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        height="40"
+        width="52"
+        alt="jest logo"
+      />
+    </div>
+
+
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
