@@ -46,49 +46,14 @@
 
  <h3 align="center">Connect with me:</h3>
  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Dipratna+Sakhare+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
+
+         
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/dipratnasakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dipratnasakhare" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipratna-sakhare" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/dipratnasakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dipratnasakhare" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/rickysakhare677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rickysakhare677" height="30" width="40" /></a>
 </p>
-            <p align="center">
-                <a
-                    
-                    href="https://codepen.io/https://codepen.io/dipratnasakhare"
-                    target="blank"><img
-                        align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-                        alt="https://codepen.io/dipratnasakhare"
-                        height="50"
-                        width="50"
-                        /></a>
-                <a
-                    style="padding: 50px;"
-                    href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare"
-                    target="blank"><img
-                        align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                        alt="www.linkedin.com/in/dipratna-sakhare"
-                        height="50"
-                        width="50"
-                        /></a>
-                <a
-                    style="padding: 50px;"
-                    href="https://codesandbox.com/https://codesandbox.io/u/dipratnasakhare"
-                    target="blank"><img
-                        align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-                        alt="https://codesandbox.io/u/dipratnasakhare"
-                        height="50"
-                        width="50"
-                        /></a>
-                <a href="https://www.hackerrank.com/rickysakhare677?hr_r=1"
-                <a href=""
-                    target="blank"><img
-                        align="center"
-                        style="padding: 50px;"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-                        alt="@rickysakhare677"
-                        height="50"
-                        width="50"
-                        /></a>
-            </p>
 	    
 
 <h3 align="left">Languages and Tools:</h3>
