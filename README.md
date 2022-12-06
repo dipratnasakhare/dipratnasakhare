@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
 <h3 align="center">Learning MERN Stack</h3>
 
-Linkedin www.linkedin.com/in/dipratna-sakhare
+<div  style="width: 60%; margin-left: 30%;">
+    <img width="300px" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="">
+    <img width="300px" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="">
+    <img width="300px" src="https://i.pinimg.com/originals/1d/ab/8f/1dab8fb61e47f74063638301a492e7a1.jpg" alt="">
+    <img width="300px" src="https://static.vecteezy.com/system/resources/previews/002/217/940/large_2x/man-working-on-a-laptop-vector.jpg" alt="">
+</div>
 
-<img src="https://i.imgur.com/NxxscUm.jpg" alt="dipratnasakhare" />
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipratnasakhare&label=Profile%20views&color=0e75b6&style=flat" alt="dipratnasakhare" /> </p>
 
