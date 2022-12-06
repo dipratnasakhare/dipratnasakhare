@@ -22,7 +22,7 @@
 
 
 
-        <div>
+<!--         <div> -->
 
 
             <p style="text-align: center;">
@@ -42,13 +42,13 @@
                 [https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing](https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing)
                 - ⚡ Fun fact **i am sciense student**
             </p>
-
-        </div>
-
-
+<!-- 
+        </div> -->
 
 
-        <div>
+
+<!-- 
+        <div> -->
             <h3 align="center">Connect with me:</h3>
             <p align="center">
                 <a
@@ -91,19 +91,19 @@
                         width="150"
                         /></a>
             </p>
-        </div>
-
+<!--         </div>
+ -->
         <h3 align="Center">Languages and Tools:</h3>
-        <div style="display: grid;
+<!--         <div style="display: grid;
             grid-template-columns: 250px 250px 250px 250px;
             margin: 30px;
             margin-left:20%; 
           
 
-            ">
+            "> -->
 
 
-            <div>
+<!--             <div> -->
                 <a href="https://www.w3schools.com/css/" target="_blank"
                     rel="noreferrer">
                     <img
@@ -113,9 +113,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div> -->
 
-            <div>
+<!--             <div> -->
                 <a href="https://expressjs.com" target="_blank"
                     rel="noreferrer">
                     <img
@@ -125,9 +125,9 @@
                         height="100"
                         />
                 </a>
-            </div>
-
-            <div>
+<!--             </div> -->
+<!-- 
+            <div> -->
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                     <img
                         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -136,9 +136,9 @@
                         height="100"
                         />
                 </a>
-            </div>
-
-            <div>
+<!--             </div> -->
+<!-- 
+            <div> -->
                 <a href="https://www.w3.org/html/" target="_blank"
                     rel="noreferrer">
                     <img
@@ -148,9 +148,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a
                     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
                     target="_blank"
@@ -162,9 +162,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a href="https://www.mongodb.com/" target="_blank"
                     rel="noreferrer">
                     <img
@@ -174,9 +174,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                     <img
                         src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -185,9 +185,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -196,9 +196,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -207,9 +207,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -218,9 +218,9 @@
                         height="100"
                         />
                 </a>
-            </div>
+<!--             </div>
 
-            <div>
+            <div> -->
                 <a
                     href="https://www.typescriptlang.org/"
                     target="_blank"
