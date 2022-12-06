@@ -45,7 +45,7 @@
 - ⚡ Fun fact **i am sciense student**
 
  <h3 align="center">Connect with me:</h3>
- <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Krishna+Dipratna+Sakhare+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
+ <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Dipratna+Sakhare+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
 </p>
             <p align="center">
                 <a
