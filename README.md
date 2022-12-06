@@ -47,7 +47,7 @@
  <h3 align="center">Connect with me:</h3>
             <p align="center">
                 <a
-                    style="padding: 50px;"
+                    style="padding: 500px;"
                     href="https://codepen.io/https://codepen.io/dipratnasakhare"
                     target="blank"><img
                         align="center"
