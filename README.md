@@ -49,7 +49,7 @@
 </p>
             <p align="center">
                 <a
-                    style="padding: 500px;"
+                    
                     href="https://codepen.io/https://codepen.io/dipratnasakhare"
                     target="blank"><img
                         align="center"
@@ -78,7 +78,8 @@
                         height="50"
                         width="50"
                         /></a>
-                <a href="https://www.hackerrank.com/@rickysakhare677"
+                <a href="https://www.hackerrank.com/rickysakhare677?hr_r=1"
+                <a href=""
                     target="blank"><img
                         align="center"
                         style="padding: 50px;"
