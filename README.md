@@ -6,6 +6,8 @@
     <img width="300px" src="https://i.pinimg.com/originals/1d/ab/8f/1dab8fb61e47f74063638301a492e7a1.jpg" alt="">
     <img width="300px" src="https://static.vecteezy.com/system/resources/previews/002/217/940/large_2x/man-working-on-a-laptop-vector.jpg" alt="">
             <img width="300px" src="https://uploads-ssl.webflow.com/5da5022a5cd1a67955e64d97/60b6fd994089e43f76037e3e_Educator%20Resources-p-500.png" alt="">
+        <img width="300px" src="https://i.imgur.com/gjv5CaH.gif" alt="">
+
 
 
 </div>
