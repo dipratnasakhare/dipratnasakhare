@@ -2,10 +2,10 @@
 <h3 align="center">Learning MERN Stack</h3>
 
 
-<h1>
+<h3>
 	While some programmers like to get things done as quickly as possible, others like to think of their code as a beautiful creation. That variable was named exactly right. And that class was so nicely decoupled from that other class. And those tests cover my code base perfectly. It goes on. One can look at his own code for hours, admiring the beauty.
 
-Creating readable, maintainable, clean code is not a bad thing by any means. Sure, it might be disheartening when another programmer brutally destroys your creation with an ugly patch. But overall, it’s very satisfying to make something beautiful.<h1>
+Creating readable, maintainable, clean code is not a bad thing by any means. Sure, it might be disheartening when another programmer brutally destroys your creation with an ugly patch. But overall, it’s very satisfying to make something beautiful.<h3>
 
 
 
