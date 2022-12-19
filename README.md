@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dipratna Sakhare</h1>
 <h3 align="center">Learning MERN Stack</h3>
+
+
+<h1>
+	While some programmers like to get things done as quickly as possible, others like to think of their code as a beautiful creation. That variable was named exactly right. And that class was so nicely decoupled from that other class. And those tests cover my code base perfectly. It goes on. One can look at his own code for hours, admiring the beauty.
+
+Creating readable, maintainable, clean code is not a bad thing by any means. Sure, it might be disheartening when another programmer brutally destroys your creation with an ugly patch. But overall, it’s very satisfying to make something beautiful.<h1>
+
+
+
+
+
+
+
 <div  style=" margin: auto;">
     <img width="300px" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="">
     <img width="300px" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="">
