@@ -63,7 +63,7 @@ Creating readable, maintainable, clean code is not a bad thing by any means. Sur
          
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/dipratnasakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dipratnasakhare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipratna-sakhare" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/dipratna-sakhare](https://www.linkedin.com/in/dipratna-sakhare/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipratna-sakhare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/dipratnasakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dipratnasakhare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rickysakhare677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rickysakhare677" height="30" width="40" /></a>
 </p>
