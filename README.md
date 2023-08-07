@@ -41,7 +41,6 @@ Creating readable, maintainable, clean code is not a bad thing by any means. Sur
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DearmStore](https://github.com/dipratnasakhare/debonair-surprise-3863)
 
 - 🌱 I’m currently learning **React, Next, Typescript, Node JS**
 
