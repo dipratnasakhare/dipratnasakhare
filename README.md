@@ -44,7 +44,7 @@ Creating readable, maintainable, clean code is not a bad thing by any means. Sur
 
 - 🌱 I’m currently learning **React, Next, Typescript, Node JS**
 
-- 👯 I’m looking to collaborate on [GithubClone](https://github.com/dipratnasakhare/private-projects)
+- 👯 I’m looking to collaborate on [website](https://github.com/dipratnasakhare/Reach-me)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dipratnasakhare.github.io/)
 
