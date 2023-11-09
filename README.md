@@ -52,7 +52,7 @@ Creating readable, maintainable, clean code is not a bad thing by any means. Sur
 
 - 📫 How to reach me **dipratnasakhare11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing](https://drive.google.com/file/d/12KzeQQu31OFwYZrQadAWknQjikT2VZdW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G4Kiz_dQ0KhSNRXm1Af6zhozyq9mS4Hy/view?usp=drive_link](https://drive.google.com/file/d/1G4Kiz_dQ0KhSNRXm1Af6zhozyq9mS4Hy/view?usp=drive_link)
 
 - ⚡ Fun fact **i am sciense student**
 
