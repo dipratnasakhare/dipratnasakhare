@@ -46,7 +46,7 @@ Creating readable, maintainable, clean code is not a bad thing by any means. Sur
 
 - 👯 I’m looking to collaborate on [GithubClone](https://github.com/dipratnasakhare/private-projects)
 
-- 👨‍💻 All of my projects are available at [https://dipratnasakhare.github.io/](https://dipratnasakhare.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dipratnasakhare.github.io/)
 
 - 💬 Ask me about **React, JavaScript**
 
